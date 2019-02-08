@@ -9,3 +9,9 @@ You will need:
 - Jumper wires
 
 ![led](https://user-images.githubusercontent.com/11530521/50457853-57d51100-0991-11e9-9a61-c9a9561ba1a9.png)
+
+Step 1: Connect NodeMCU to the LED
+* Connect a red LED to PIN 3 of NodeMCU with a resistor
+* Connect ground
+
+Step 2: Upload the sketch
