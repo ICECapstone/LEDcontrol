@@ -1,4 +1,4 @@
-# Lecture1b_LEDcontrol
+# LEDcontrol
 
 In this lecture, you will use your NodeMCU to control a red LED, attached to PIN GPIO3.  The LED will repeatedly turn ON (for one second) and off (for one second).
 
